@@ -26,7 +26,7 @@ public class User {
     private String photoUrl;
     private Boolean verifiedEmail;
     private Boolean disabled;
-    private LocalDateTime accesDate;
+    private LocalDateTime accessDate;
 
 
 

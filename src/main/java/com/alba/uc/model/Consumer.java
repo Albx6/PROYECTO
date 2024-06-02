@@ -20,6 +20,6 @@ public class Consumer {
     private String email;
     private String password;
     private String apiKey;
-    private LocalDateTime creationData;
+    private LocalDateTime creationDate;
 
 }
